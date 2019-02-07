@@ -1,0 +1,14 @@
+
+
+/*TABLE STYLING*/
+table{
+    border:2px solid cadetblue;
+
+
+}
+
+/*ROW COLOR*/
+.color{
+    background: cadetblue;
+    color:white;
+}
