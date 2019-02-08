@@ -11,3 +11,4 @@ $("#myElement div:nth-child(2)").addClass("s1");
 // REDSTUFF
 $("div:first").addClass("blood");
 $("div:last").addClass("blood");
+$("body:nth-child(2)").addClass("blood");
